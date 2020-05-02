@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846028617129",
+    "firebase_url": "https://lsbm-d82e7.firebaseio.com",
+    "project_id": "lsbm-d82e7",
+    "storage_bucket": "lsbm-d82e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846028617129:android:37d3f79f5cd08c1b",
+        "android_client_info": {
+          "package_name": "com.example.satyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846028617129-qu2gr75u9slkdferaec4bic5gj8nq8cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjaCuZWjEetyftECodvMPEs7Kt9FNXoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846028617129-qu2gr75u9slkdferaec4bic5gj8nq8cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

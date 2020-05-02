@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lsbm</string>
+    <string name="type_prompt">Please select</string>
+
+    <string-array name="type_arrays">
+        <item>Customer</item>
+        <item>Labour</item>
+    </string-array>
+</resources>
